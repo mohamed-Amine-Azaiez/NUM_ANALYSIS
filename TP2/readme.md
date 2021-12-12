@@ -1,6 +1,8 @@
 # TP2 
 ## Interpolation polynomiale
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mohamed-Amine-Azaiez/NUM_ANALYSIS/main?labpath=TP2%2FTP2.ipynb)
+
 [//]: # (how to add latex in markdown https://gist.github.com/a-rodin/fef3f543412d6e1ec5b6cf55bf197d7b)
 
 **Polynome d'interpolation de Lagrange** 
